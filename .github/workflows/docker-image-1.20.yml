@@ -15,8 +15,8 @@ env:
   DOCKERHUB_IMAGE_TAGS: |
     nicoherbigde/nginx:1.20
     nicoherbigio/nginx:1.20
-    nicoherbigde/nginx:1.20.1
-    nicoherbigio/nginx:1.20.1
+    nicoherbigde/nginx:1.20.2
+    nicoherbigio/nginx:1.20.2
 
 jobs:
   build-and-push:
