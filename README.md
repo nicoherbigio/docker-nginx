@@ -1,9 +1,25 @@
-# NGINX
+# NGINX Docker image
+
+[![Build Status](https://github.com/nicoherbigio/docker-nginx/actions/workflows/build-docker-images.yml/badge.svg)](https://github.com/nicoherbigio/docker-nginx/actions/workflows/build-docker-images.yml)
 
 ## Supported tags and respective `Dockerfile` links
 
- * [`1.22`, `1.22.0`](https://github.com/nicoherbigio/docker-nginx/blob/main/1.22/debian/default/Dockerfile)
- * [`1.20`, `1.20.2`](https://github.com/nicoherbigio/docker-nginx/blob/main/1.20/debian/default/Dockerfile)
+ * [`1.22`, `1.22.0` (1.22/debian/default/Dockerfile)](https://github.com/nicoherbigio/docker-nginx/blob/main/1.22/debian/default/Dockerfile)
+ * [`1.20`, `1.20.2` (1.20/debian/default/Dockerfile)](https://github.com/nicoherbigio/docker-nginx/blob/main/1.20/debian/default/Dockerfile)
+
+## How to get this image
+
+The recommended way to get the NGINX Docker image is to pull the prebuilt image from Docker Hub by specifying the tagged version.
+
+```console
+$ docker pull nicoherbigde/nginx:[TAG]
+```
+
+The [list of available versions](https://hub.docker.com/r/nicoherbigde/nginx/tags) can be viewed at Docker Hub.
+
+## How to use this image
+
+Coming soon ;-)
 
 ## Copyleft
 
